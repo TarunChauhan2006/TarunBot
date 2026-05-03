@@ -34,9 +34,10 @@ Tarun-Bot/
 │       └── App.jsx
 
 ```
-⚙️ Setup Instructions
+## ⚙️ Setup Instructions
 
-🔹 Backend
+### 🔹 Backend
+```bash
 cd backend
 pip install -r requirements.txt
 uvicorn app.main:app --reload
