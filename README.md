@@ -36,13 +36,4 @@ Tarun-Bot/
 
 ---
 
-## ⚙️ Setup Instructions (correct)
 
-```md
-## ⚙️ Setup Instructions
-
-### 🔹 Backend
-```bash
-cd backend
-pip install -r requirements.txt
-uvicorn app.main:app --reload
