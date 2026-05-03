@@ -33,7 +33,7 @@ Tarun-Bot/
 │   └── src/
 │       └── App.jsx
 
-bash'''
+'''bash
 ⚙️ Setup Instructions
 
 🔹 Backend
